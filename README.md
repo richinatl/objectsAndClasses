@@ -2,7 +2,7 @@
 
 ### Description
 The purpose of this project was getting more familiar with Java classes and constructors, along with getters and setters. I'm sharing everything I do here, even the rather simple
-files, because practice hones skills. Doing at least a little something as often as you can makes a huge difference over time
+files, because practice hones skills. Doing at least a little something as often as you can makes a huge difference over time. And I had a little fun with it, it's the SEC Championship game this weekend after all.
 
 <br>
 
